@@ -8,7 +8,7 @@ Personal portfolio website showcasing my projects, skills, and experience in web
 - JavaScript
 
 ## Live Demo
-[View Website](adarshkamat.dev)
+[View Website](#adarshkamat.dev)
 
 ## Setup
 Open `index.html` in your browser to view the site locally.
